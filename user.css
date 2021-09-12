@@ -184,3 +184,7 @@ div.GlueDropTarget.personal-library > *.active {
 .main-buddyFeed-activityMetadata .main-buddyFeed-playbackContextLink {
   color: var(--spice-text);
 }
+
+body {
+  min-height: auto !important;
+}
