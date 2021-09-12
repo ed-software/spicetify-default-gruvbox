@@ -8,4 +8,5 @@ After cloning this repo copy it to the spicetify theme folder.
 `mv ./SpicetifyDefault ~/.config/spicetify/Themes`
 
 Enable the theme: `spicetify config current_theme SpicetifyDefault`
+
 Enable the colour scheme: `spicetify config color_scheme gruvbox`
