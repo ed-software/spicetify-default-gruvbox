@@ -5,8 +5,8 @@ This is a really simple modification to the default Spicetify theme that adds th
 ## Setting Up
 
 After cloning this repo copy it to the spicetify theme folder.
-`mv ./SpicetifyDefault ~/.config/spicetify/Themes`
+`mv ./spicetify-default-gruvbox ~/.config/spicetify/Themes`
 
-Enable the theme: `spicetify config current_theme SpicetifyDefault`
+Enable the theme: `spicetify config current_theme spicetify-default-gruvbox`
 
 Enable the colour scheme: `spicetify config color_scheme gruvbox`
